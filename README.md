@@ -1,6 +1,6 @@
-# Machine Learning Project Repository
+# Machine Learning Projects
 
-Welcome to our Machine Learning Project Repository! This collection of projects is designed to explore various fundamental concepts and algorithms in machine learning, ranging from statistical methods to deep learning techniques. Each project is contained within its own folder, focusing on a specific topic, and provides hands-on examples to demonstrate the theory and application of the algorithms discussed.
+This collection of projects is designed to explore various fundamental concepts and algorithms in machine learning, ranging from statistical methods to deep learning techniques. Each project is contained within its own folder, focusing on a specific topic, and provides hands-on examples to demonstrate the theory and application of the algorithms.
 
 ## Getting Started
 
