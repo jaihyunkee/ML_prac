@@ -37,7 +37,3 @@ Please refer to the `requirements.txt` file in each project folder for specific 
 ### Lecture 5: Decision Tree and K-Nearest Neighbors (KNN)
 - **Folder**: `lec_5`
 - **Description**: Learn about the Decision Tree algorithm for classification and regression problems. This project also revisits the K-Nearest Neighbors (KNN) algorithm, reinforcing its concepts and applications.
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute, please fork the repository and submit a pull request with your proposed changes. For more details, refer to the `CONTRIBUTING.md` file.
