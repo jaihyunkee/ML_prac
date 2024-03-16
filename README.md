@@ -4,7 +4,7 @@ Welcome to our Machine Learning Project Repository! This collection of projects 
 
 ## Getting Started
 
-Before diving into the projects, make sure you have the necessary prerequisites. These may include, but are not limited to:
+Before diving into the projects, make sure you have the necessary prerequisites installed on your machine. These may include, but are not limited to:
 
 - Python 3.x
 - NumPy
